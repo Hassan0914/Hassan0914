@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 # Hi there 👋, I'm Muhammad Hassan Khurshid
@@ -194,4 +194,4 @@ Business automation using n8n, APIs, AI models, and custom integrations.
 ⭐ Don't forget to star repositories you find useful.
 
 </div>
-```
+
